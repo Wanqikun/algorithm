@@ -1,5 +1,6 @@
 //two_stack_make_a_dequ
 //
+//
 class CQueue {
      stack<int> stack1,stack2;
 public:
